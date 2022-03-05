@@ -2,7 +2,7 @@
 
 1. Clone the repository
 ```
-https://github.com/stanley-yin/NBAplayer_react.git
+https://github.com/stanley-yin/NBAplayer_node.git
 cd my-app
 ```
 
