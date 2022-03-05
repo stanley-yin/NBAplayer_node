@@ -3,7 +3,6 @@
 1. Clone the repository
 ```
 https://github.com/stanley-yin/NBAplayer_node.git
-cd my-app
 ```
 
 2. Install required dependencies
